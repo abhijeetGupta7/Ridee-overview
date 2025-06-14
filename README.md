@@ -34,8 +34,7 @@ A real-time ride-sharing platform connecting users with drivers ("captains") thr
 - Frontend: [https://ride-frontend.onrender.com](https://ride-frontend.onrender.com)
 - Backend API: [https://ride-backend-m1x6.onrender.com](https://ride-backend-m1x6.onrender.com)
 
-## ⚠️ Important Notice
-**The deployed demo uses Google Maps Platform's free tier API, which has limited usage. Map features may stop working if the quota is exceeded. For full functionality, please run locally with your own API key.**
+*⚠️ Important Notice: The deployed demo uses Google Maps Platform's free tier API, which has limited usage. Map features may stop working if the quota is exceeded. For full functionality, please run locally with your own API key.*
 
 ## 🔗 Repositories
 | Component  | Link                                                                               |

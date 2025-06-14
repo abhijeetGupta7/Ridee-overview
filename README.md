@@ -2,6 +2,9 @@
 
 A real-time ride-sharing platform connecting users with drivers ("captains") through geolocation, live tracking, and instant notifications.
 
+## 🎥 Demo  
+[![Ridee Demo Preview](https://img.shields.io/badge/▶️-Watch_Demo_Video-FF0000?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1KI0t6wYqMml4zyd7OlJzqSFsPcEkw241/view?usp=drive_link)
+
 ## 🌟 Features
 
 ### Frontend (React)
